@@ -1,0 +1,19 @@
+flour 1kg pack                     120 100 18 
+sugar 1kg pack                     150 100 25 
+oil 1liter pack                    300 270 50 
+rice 1kg pack                      210 132 49 
+mix spice box                      250 200 46 
+spicy chips 100gm pack             070 050 42 
+milk chocolate 100gm bar           100 070 32 
+dark chocolate 100gm bar           100 070 41 
+white chocolate 100gm bar          100 021 50 
+orange juice 260ml                 120 100 50 
+mango juice 260ml                  090 070 50 
+cocacola 500ml                     100 070 28 
+pepsi 500ml                        100 070 50 
+lemonade 260ml                     090 070 50 
+panadol 1 strip                    015 010 50 
+risik 1 strip                      050 030 48 
+cal c 10 tabs                      250 200 50 
+brufen 1 strip                     050 040 50 
+disprin 1 strip                    015 010 46 
